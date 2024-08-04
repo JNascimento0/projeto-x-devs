@@ -1,0 +1,35 @@
+@media(max-width: 620px){
+    .cabecalho {
+        padding: 30px 0;
+    }
+    .personagens-slider {
+        padding: 0 15px;
+        gap: 10px;
+    }
+    .btn-seta {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+    }
+    .lista-personagens{
+        height: 495px;
+    }
+}
+
+@media(max-width: 395px){
+    .cabecalho {
+        padding: 15px;
+    }
+    .personagens-slider{
+        padding: 0 7px;
+        gap: 5px;
+    }
+    .btn-seta {
+        width: 10px;
+        height: 10px;
+        padding: 20px;
+    }
+    .lista-personagens {
+        height: 480px;
+    }
+}
